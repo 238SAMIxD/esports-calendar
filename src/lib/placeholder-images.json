@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "valorant-esports",
+      "description": "An esports arena with a Valorant match on screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1698181283920-b0a71ace34f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlc3BvcnRzJTIwdmFsb3JhbnR8ZW58MHx8fHwxNzU5MDUzODAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "esports valorant"
+    },
+    {
+      "id": "league-of-legends-esports",
+      "description": "A crowd watching a League of Legends tournament.",
+      "imageUrl": "https://images.unsplash.com/photo-1633545495735-25df17fb9f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlc3BvcnRzJTIwbGVhZ3VlfGVufDB8fHx8MTc1OTA1MzgwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "esports league"
+    },
+    {
+      "id": "csgo-esports",
+      "description": "Players competing in a CS:GO tournament.",
+      "imageUrl": "https://images.unsplash.com/photo-1568574262484-d60f45631d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlc3BvcnRzJTIwY291bnRlci1zdHJpa2V8ZW58MHx8fHwxNzU5MDUzODAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "esports counter-strike"
+    },
+    {
+      "id": "dota2-esports",
+      "description": "The Aegis of Champions trophy at a Dota 2 tournament.",
+      "imageUrl": "https://images.unsplash.com/photo-1642326828805-0d3251cc250f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxlc3BvcnRzJTIwZG90YXxlbnwwfHx8fDE3NTkwNTM4MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "esports dota"
+    },
+    {
+      "id": "overwatch-esports",
+      "description": "Team competing on stage at an Overwatch League match.",
+      "imageUrl": "https://images.unsplash.com/photo-1733235014456-4d531d338662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlc3BvcnRzJTIwb3ZlcndhdGNofGVufDB8fHx8MTc1OTA1MzgwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "esports overwatch"
+    },
+    {
+      "id": "rocket-league-esports",
+      "description": "High-flying action in a Rocket League Championship Series match.",
+      "imageUrl": "https://images.unsplash.com/photo-1677928708310-f8b9cd3e81e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlc3BvcnRzJTIwcm9ja2V0JTIwbGVhZ3VlfGVufDB8fHx8MTc1OTA1MzgwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "esports rocket league"
+    }
+  ]
+}
